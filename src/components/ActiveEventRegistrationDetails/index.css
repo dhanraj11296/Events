@@ -1,0 +1,51 @@
+/* Write your CSS here */
+.registrationStatusContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  width: 40%;
+  height: 100vh;
+}
+.viewContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 90%;
+}
+.yetToRegisterImage {
+  width: 90%;
+}
+.registerDescription {
+  text-align: center;
+  color: #64748b;
+}
+.registerHereButton {
+  text-align: center;
+  color: white;
+  background-color: #0967d2;
+  outline: none;
+  cursor: pointer;
+}
+.registeredImg {
+  width: 80%;
+}
+.registeredHeading {
+  text-align: center;
+  color: #323f4b;
+}
+.registrationsClosedImage {
+  width: 80%;
+}
+.registrationsClosedHeading {
+  text-align: center;
+  color: #323f4b;
+}
+.registrationsClosedDescription {
+  text-align: center;
+  color: #475569;
+}
+.noActiveEventDescription {
+  text-align: center;
+  color: #64748b;
+}

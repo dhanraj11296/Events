@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.eventsContainer {
+  display: flex;
+  align-items: flex-start;
+  background-color: #3a4b63;
+}
+.eventsContent {
+  width: 60%;
+  height: 100vh;
+  overflow-y: auto;
+}
+.heading {
+  color: #f8fafc;
+}
+.eventsList {
+  display: flex;
+  flex-wrap: wrap;
+}
